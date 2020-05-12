@@ -1,0 +1,40 @@
+.App{
+  display:flex;
+  justify-content: space-between;
+  margin:2%
+}
+
+.space-between{
+  display:row;
+  justify-content:space-between
+}
+
+.room{
+  width:100vh;
+  height:80vh;
+  border: 1px solid black;
+}
+
+.bulb-size{
+  height:5vh;
+  width:5vh;
+}
+
+.television-size{
+  height:20vh;
+  width:20vh;
+  margin-left:38%;  
+}
+
+.text-style{
+  text-decoration: underline;
+  text-decoration-color: Blue;
+}
+
+.both-bulbs{
+background-color:orangered
+}
+
+.one-bulb{
+  background-color:orange
+}
